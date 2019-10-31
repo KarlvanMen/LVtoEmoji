@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
+    "moji-translate": "^1.0.8",
     "vue": "^2.6.10"
   },
   "devDependencies": {
